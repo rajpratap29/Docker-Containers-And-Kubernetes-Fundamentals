@@ -1,4 +1,4 @@
-# Lec-07 Docker Compose - Sample
+# Lec-07 Running Full Stack App with Docker Compose
 
 ## Build the app
 
